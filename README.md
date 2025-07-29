@@ -23,3 +23,15 @@ A classic Snake Game implemented in C using basic console functions. This is a t
 
 ---
 
+
+
+---
+🙋‍♂️ Author
+Would you like me to help you:
+- Add sound or levels to the game?
+- Package it with `.exe`?
+- Make a GIF recording for README?
+
+Let me know, bro 💻🔥
+
+
